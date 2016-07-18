@@ -1,2 +1,2 @@
 # FictionFlower
-热门电视剧的小说
+The novel of the popular TV series
